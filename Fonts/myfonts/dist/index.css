@@ -1,0 +1,40 @@
+@font-face {
+  font-family: "Winter Tosca";
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local("Winter Tosca"),
+    local("Winter Tosca"),
+    url(./Winter\ Tosca.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Minecraft";
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local("Minecraft"),
+    local("Minecraft"),
+    url(./Minecraft.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Henny Penny";
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local("Henny Penny"),
+    local("Henny Penny"),
+    url(./HennyPenny-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "BitcountGrid";
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local("BitcountGrid"),
+    local("BitcountGrid"),
+    url(./BitcountGridSingle-VariableFont_CRSV,ELSH,ELXP,slnt,wght.ttf)
+      format("truetype");
+}
